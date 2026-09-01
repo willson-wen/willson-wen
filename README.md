@@ -27,18 +27,18 @@ const wilson = {
 };
 ```
 
-## Kasadin · 中文 AI 内容生产流水线
+## 内容生产 Skills
 
 > 一套按真实创作流程排列的 Skills：从视觉封面、文章配图，到公众号排版与单页分享文档，全链路提效。
 
-| 流水线阶段 | Skill | 解决什么问题 |
+| 阶段 | Skill | 解决什么问题 |
 |---|---|---|
 | ① 视觉封面 | [kasadin-ai-covers](https://github.com/willson-wen/kasadin-ai-covers) | 高冲击力 3:4 中文 AI 内容封面 |
 | ② 文章配图 | [kasadin-ai-illustrations](https://github.com/willson-wen/kasadin-ai-illustrations) | 16:9 中文 AI 文章插画 |
 | ③ 公众号排版 | [kasadin-wechat-layout-skills](https://github.com/willson-wen/kasadin-wechat-layout-skills) | 浅橙石墨主题，生成可直接粘贴的排版 HTML |
 | ④ 分享文档 | [kasadin-html](https://github.com/willson-wen/kasadin-html) | 粉雾蓝拟真 UI 单页 HTML，2-3 屏完成成稿 |
 
-### 流水线之外的效率工具
+### 效率工具
 
 - [ecom-image-to-prompt](https://github.com/willson-wen/ecom-image-to-prompt) · 从电商商品图反向提取生成提示词
 - [boss-jd-scraper](https://github.com/willson-wen/boss-jd-scraper) · 登录态安全采集职位 JD：断点续采、风控停机规则、Excel 导出
@@ -51,15 +51,6 @@ const wilson = {
 
 <div align="center">
 
-### 贡献动态
-
-<img height="170" src="https://raw.githubusercontent.com/willson-wen/willson-wen/output/github-stats.svg" alt="GitHub Stats" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=willson-wen&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
 <br/>
 
 <picture>
