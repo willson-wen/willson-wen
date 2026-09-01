@@ -53,7 +53,7 @@ const wilson = {
 
 ### 贡献动态
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=willson-wen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://raw.githubusercontent.com/willson-wen/willson-wen/output/github-stats.svg" alt="GitHub Stats" />
 
 <br/>
 
