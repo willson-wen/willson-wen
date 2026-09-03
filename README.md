@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner-kasadin-lab.jpg" alt="Kasadin's Lab" width="100%" />
-
-<a href="https://github.com/willson-wen">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C6CF0&center=true&vCenter=true&width=640&lines=AI+Content+Skills%2C+as+a+Pipeline;Covers+%E2%86%92+Illustrations+%E2%86%92+Layout+%E2%86%92+HTML+Docs;TypeScript+%2F+Python+%2F+Automation" alt="Typing SVG" />
-</a>
-
 <p>
   <a href="https://wilson-portfolio-rouge.vercel.app"><img src="https://img.shields.io/badge/Portfolio-wilson.vercel-7C6CF0?style=flat-square" alt="Portfolio"></a>
   <a href="https://evtol-platform.vercel.app"><img src="https://img.shields.io/badge/eVTOL-Platform-46B3E6?style=flat-square" alt="eVTOL"></a>
@@ -65,5 +59,3 @@ const wilson = {
 **Thanks for stopping by · 把重复的创作，交给 Skills 与自动化**
 
 </div>
-
-<!-- profile render refresh -->
